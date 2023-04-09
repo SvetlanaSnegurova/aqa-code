@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/0batowgphtb2cu6x?svg=true)](https://ci.appveyor.com/project/SvetlanaSnegurova/aqa-code)
